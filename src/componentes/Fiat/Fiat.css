@@ -1,0 +1,13 @@
+.fiat {
+    height: 90vh;
+    background-color: rgb(36, 185, 36);
+  }
+  .logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50vh;
+    padding-top: 30px;
+
+  }

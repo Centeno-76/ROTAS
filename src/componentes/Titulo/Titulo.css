@@ -1,0 +1,30 @@
+html, body{
+  margin: 0px;
+  height: 100%;
+}
+
+.titulo {
+    height: 8vh;
+    /* background-color: rgb(166, 245, 159); */
+    /* border: 1px solid darkorange; */
+    /* position: relative; */
+    top: 7vh;
+    color: black;
+    text-align: center;
+    padding-top: 8px;
+    
+  }
+
+  /* .titulo {
+    text-align: center;
+    padding-top: 8px;
+    font-family: 'Courier New', Courier, monospace;
+
+  } */
+
+  .mecanica, .eletrica, .eletronica, .suspensao {
+    background-color: rgb(138, 138, 5);
+  }
+  .motor, .pedais, .cambio, .volante, .sensorres {
+    background-color: rgb(41, 153, 13);
+  }

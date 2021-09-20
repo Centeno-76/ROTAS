@@ -1,0 +1,13 @@
+.kombi{
+    background-color: yellow;
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50vh;
+    padding-top: 30px;
+
+  }
